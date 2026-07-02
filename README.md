@@ -1,7 +1,9 @@
-# <h1 align="center">🚀 Pagadala Narasimha</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02daed,50:5072ed,100:0a0a23&height=260&section=header&text=Pagadala%20Narasimha&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=%E2%9C%A8%20Full%20Stack%20Developer%20%C2%B7%20Data%20Analyst%20%C2%B7%20Builder%20of%20Ideas&descSize=18&descAlignY=60&animation=twinkling" width="100%" alt="header banner" />
+</p>
 
 <h3 align="center">
-Software Developer • AI Enthusiast • Cybersecurity Explorer
+Software Developer • AI Enthusiast • Data Engineer • RHCSA Certified • NCC cadet
 </h3>
 
 <p align="center">
@@ -20,7 +22,7 @@ Building intelligent systems, solving algorithmic challenges, and turning ideas 
 * Full Stack Development
 * Artificial Intelligence
 * Machine Learning
-* Cybersecurity
+* Data Engineering
 
 🌱 Currently Learning:
 
@@ -38,7 +40,7 @@ To become an AI-powered Full Stack Engineer capable of building secure, scalable
 
 ### Programming Languages
 
-C • C++ • JavaScript
+C • C++ • JavaScript • Python • Java
 
 ### Web Development
 
@@ -76,39 +78,33 @@ Current Focus:
 
 ## 🚀 Featured Projects
 
-### 🤖 AI-Powered Cybersecurity Platform
+### QuickByte – Online Food Ordering Platform
+MERN Stack (MongoDB, Express, React, Node.js) | Live | GitHub
 
-Unified platform for:
+Built a full-stack food ordering web application with a React client and a Node/Express backend exposing RESTful API routes
+Designed and deployed the application on Vercel, enabling end-to-end ordering functionality from menu browsing to order placement
+Structured the codebase with a modular client/backend separation for scalable feature development
 
-* Spam Detection
-* Phishing Detection
-* Threat Intelligence
-* Deepfake Detection
-* Intrusion Detection
+### CollegeConnect – College Management Application
+Java, JDBC, MySQL | GitHub
 
-### 📊 Power BI Analytics Dashboard
-
-Interactive dashboards for business insights and data-driven decisions.
-
-### 💻 DSA Solutions Repository
-
-Collection of optimized solutions from LeetCode and competitive programming contests.
-
-### 🌐 Personal Portfolio Website
-
-Modern responsive portfolio showcasing projects, skills, and achievements.
+Developed a Java-based application integrated with a MySQL database via JDBC to manage college-related data and operations
+Designed relational database schema (code.sql) to handle structured data storage and querying
+Implemented core application logic in Java, connecting the front-end logic layer to persistent MySQL storage
 
 ---
 
 ## 📜 Certifications
 
-🏅 Microsoft Excel
-
-🏅 Power BI
-
-🏅 C Essentials
-
-🏅 Rautekan Certification
+• MICROSOFT– Excel , Power BI
+• CISCO– C-Essentials- 1, C-Essentials- 2 , C++ Essentials- 1 ,
+C++ Essentials- 2 , OS Basics
+• REDHAT– DO101- RHA , RH124- RHA , RH134- RHA
+• ORACLE– OCI- AI Foundations(2025)
+• COURSERA– ADS,Data Mining , OS , DBMS , Quantum Mechanics Essentials ,
+Agile Software Engineering , Fundamentals of Data Science
+• HACKER RANK– Problem Solving- Basic , Problem Solving- Intermediate ,
+SQL- Basic , Python- Basic
 
 ---
 
@@ -122,19 +118,12 @@ Modern responsive portfolio showcasing projects, skills, and achievements.
 
 ---
 
-## 🏅 GitHub Trophies
-
-[GitHub Trophy Card]
-
----
-
 ## 🌐 Connect With Me
 
 📧 [24b11ds155@adityauniversity.in](mailto:24b11ds155@adityauniversity.in)
-
-💼 LinkedIn:
-[www.linkedin.com/in/pagadala-narasimha-baa710340](http://www.linkedin.com/in/pagadala-narasimha-baa710340)
-
+📧 [pagadalanarasimha2610@gmail.com](mailto:pagadalanarasimha2610@gmail.com)
+💼 LinkedIn:[www.linkedin.com/in/pagadalanarasimha2610](www.linkedin.com/in/pagadalanarasimha2610)
+### Contact : +91 7981929528
 ---
 
 ## ⚡ Quote
